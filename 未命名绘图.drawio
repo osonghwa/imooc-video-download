@@ -84,14 +84,11 @@
         <mxCell id="YON189K7iAjRIjgFpVP4-26" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;过道边柜&lt;/h1&gt;&lt;p&gt;设计：中间镂空，两侧玻璃柜，下方正规柜&lt;/p&gt;&lt;p&gt;色彩：白&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1Mb3IMFyGs84-Xs--P0s-1">
           <mxGeometry x="1680" y="820" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YON189K7iAjRIjgFpVP4-27" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#FF8000;strokeWidth=4;" edge="1" parent="1Mb3IMFyGs84-Xs--P0s-1">
+        <mxCell id="YON189K7iAjRIjgFpVP4-27" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#FF8000;strokeWidth=4;" edge="1" parent="1Mb3IMFyGs84-Xs--P0s-1" source="YON189K7iAjRIjgFpVP4-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1391" y="1200" as="sourcePoint" />
             <mxPoint x="1721" y="1200" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="YON189K7iAjRIjgFpVP4-29" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;床&amp;amp;床头柜&amp;amp;梳妆柜&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;色彩：胡桃木&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;品牌：熙和、和年美、卡娜斯&lt;/p&gt;&lt;p&gt;信息： 1.&lt;span style=&quot;background-color: initial;&quot;&gt;白蜡木&amp;lt;樱桃木&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.熙和评价好，贵，门店便宜&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;3.和年美也是水性漆&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;4.卡娜斯也合适&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;注意：大件定熙和，咨询质保&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1Mb3IMFyGs84-Xs--P0s-1">
-          <mxGeometry x="1730" y="1180" width="220" height="230" as="geometry" />
         </mxCell>
         <mxCell id="YON189K7iAjRIjgFpVP4-30" value="改动要素" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=#82b366;fontSize=16;fillColor=#d5e8d4;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1Mb3IMFyGs84-Xs--P0s-1">
           <mxGeometry x="2068" y="580" width="180" height="210" as="geometry" />
@@ -396,6 +393,18 @@
         </mxCell>
         <mxCell id="YON189K7iAjRIjgFpVP4-90" value="电脑桌" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#FF0000;fontStyle=1;fontSize=16;" vertex="1" parent="1Mb3IMFyGs84-Xs--P0s-1">
           <mxGeometry x="1200" y="510" width="30" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YON189K7iAjRIjgFpVP4-29" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;床&amp;amp;床头柜&amp;amp;梳妆柜&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;色彩：胡桃木&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;品牌：熙和、和年美、卡娜斯&lt;/p&gt;&lt;p&gt;信息： 1.&lt;span style=&quot;background-color: initial;&quot;&gt;白蜡木&amp;lt;樱桃木&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.熙和评价好，贵，门店便宜&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;3.和年美也是水性漆&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;4.卡娜斯也合适&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;注意：大件定熙和，咨询质保&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1Mb3IMFyGs84-Xs--P0s-1">
+          <mxGeometry x="1680" y="1180" width="220" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="YON189K7iAjRIjgFpVP4-109" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#FF8000;strokeWidth=4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1Mb3IMFyGs84-Xs--P0s-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1412" y="1217.09" as="sourcePoint" />
+            <mxPoint x="1654" y="1216.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YON189K7iAjRIjgFpVP4-110" value="阳台柜" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#FF0000;fontStyle=1;fontSize=16;" vertex="1" parent="1Mb3IMFyGs84-Xs--P0s-1">
+          <mxGeometry x="1427" y="1310" width="30" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
